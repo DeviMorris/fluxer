@@ -15,7 +15,7 @@ msgstr ""
 
 #: src/components/modals/tabs/accessibility_tab/VisualTab.tsx:113
 msgid "Control when message previews are shown in the DM list"
-msgstr "Управляй показом предпросмотров сообщений в списке ЛС"
+msgstr "Управляй отображением предварительного просмотра сообщений в списке ЛС"
 
 #. js-lingui-explicit-id
 #: src/components/channel/emoji_picker/EmojiPickerCategoryList.tsx:57
@@ -194,7 +194,7 @@ msgstr "Выбрано {0}"
 #. placeholder {0}: user.displayName
 #: src/stores/NotificationStore.tsx:506
 msgid "{0} sent you a friend request"
-msgstr "{0} отправил тебе запрос в друзья"
+msgstr "{0} отправляет тебе запрос в друзья"
 
 #. placeholder {0}: hasFilters.length
 #: src/components/bottomsheets/ChannelSearchBottomSheet.tsx:239
@@ -247,99 +247,99 @@ msgstr "{absSeconds} секунд назад"
 #. placeholder {0}: channelNode ? <> in {channelNode}</> : null
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:535
 msgid "{actor} added channel permissions for {targetEntity}{0}."
-msgstr "{actor} добавил разрешения для канала {targetEntity}{0}."
+msgstr "{actor} добавляет разрешения для канала {targetEntity}{0}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:626
 msgid "{actor} added the bot {targetMember}."
-msgstr "{actor} добавил бота {targetMember}."
+msgstr "{actor} добавляет бота {targetMember}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:693
 msgid "{actor} added the emoji {namedTarget}."
-msgstr "{actor} добавил эмодзи {namedTarget}."
+msgstr "{actor} добавляет эмодзи {namedTarget}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:712
 msgid "{actor} added the sticker {namedTarget}."
-msgstr "{actor} добавил стикер {namedTarget}."
+msgstr "{actor} добавляет стикер {namedTarget}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:563
 msgid "{actor} banned {targetMember}."
-msgstr "{actor} забанил {targetMember}."
+msgstr "{actor} банит {targetMember}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:516
 msgid "{actor} created the channel {namedTarget}."
-msgstr "{actor} создал канал {namedTarget}."
+msgstr "{actor} создаёт канал {namedTarget}."
 
 #. placeholder {0}: channelNode ? <> for {channelNode}</> : null
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:652
 msgid "{actor} created the invite {namedTarget}{0}."
-msgstr "{actor} создал приглашение {namedTarget}{0}."
+msgstr "{actor} создаёт приглашение {namedTarget}{0}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:633
 msgid "{actor} created the role {namedTarget}."
-msgstr "{actor} создал роль {namedTarget}."
+msgstr "{actor} создаёт роль {namedTarget}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:674
 msgid "{actor} created the webhook {namedTarget}."
-msgstr "{actor} создал вебхук {namedTarget}."
+msgstr "{actor} создаёт вебхук {namedTarget}."
 
 #. placeholder {0}: renderValueInline(bulkCount, guildId, i18n)
 #. placeholder {1}: channelNode ? <> in {channelNode}</> : null
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:739
 msgid "{actor} deleted {0} message{1}."
-msgstr "{actor} удалил {0} сообщение{1}."
+msgstr "{actor} удаляет {0} сообщение{1}."
 
 #. placeholder {0}: renderValueInline(bulkCount, guildId, i18n)
 #. placeholder {1}: channelNode ? <> in {channelNode}</> : null
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:744
 msgid "{actor} deleted {0} messages{1}."
-msgstr "{actor} удалил {0} сообщений{1}."
+msgstr "{actor} удаляет {0} сообщений{1}."
 
 #. placeholder {0}: channelNode ? <> in {channelNode}</> : null
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:731
 msgid "{actor} deleted a message{0}."
-msgstr "{actor} удалил сообщение{0}."
+msgstr "{actor} удаляет сообщение{0}."
 
 #. placeholder {0}: channelNode ? <> in {channelNode}</> : null
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:750
 msgid "{actor} deleted multiple messages{0}."
-msgstr "{actor} удалил несколько сообщений{0}."
+msgstr "{actor} удаляет несколько сообщений{0}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:528
 msgid "{actor} deleted the channel {namedTarget}."
-msgstr "{actor} удалил канал {namedTarget}."
+msgstr "{actor} удаляет канал {namedTarget}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:705
 msgid "{actor} deleted the emoji {namedTarget}."
-msgstr "{actor} удалил эмодзи {namedTarget}."
+msgstr "{actor} удаляет эмодзи {namedTarget}."
 
 #. placeholder {0}: channelNode ? <> for {channelNode}</> : null
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:666
 msgid "{actor} deleted the invite {namedTarget}{0}."
-msgstr "{actor} удалил приглашение {namedTarget}{0}."
+msgstr "{actor} удаляет приглашение {namedTarget}{0}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:645
 msgid "{actor} deleted the role {namedTarget}."
-msgstr "{actor} удалил роль {namedTarget}."
+msgstr "{actor} удаляет роль {namedTarget}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:724
 msgid "{actor} deleted the sticker {namedTarget}."
-msgstr "{actor} удалил стикер {namedTarget}."
+msgstr "{actor} удаляет стикер {namedTarget}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:686
 msgid "{actor} deleted the webhook {namedTarget}."
-msgstr "{actor} удалил вебхук {namedTarget}."
+msgstr "{actor} удаляет вебхук {namedTarget}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:619
 msgid "{actor} disconnected {targetMember} from voice."
-msgstr "{actor} отключил {targetMember} от голосового канала."
+msgstr "{actor} отключает {targetMember} от голосового канала."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:557
 msgid "{actor} kicked {targetMember}."
-msgstr "{actor} выгнал {targetMember}."
+msgstr "{actor} выгоняет {targetMember}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:607
 msgid "{actor} moved {targetMember} to {channelNode}."
-msgstr "{actor} переместил {targetMember} в {channelNode}."
+msgstr "{actor} перемещает {targetMember} в {channelNode}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:611
 msgid "{actor} moved {targetMember} to another voice channel."
@@ -352,77 +352,77 @@ msgstr "{actor} выполнил аудитное действие над {targe
 #. placeholder {0}: channelNode ? <> in {channelNode}</> : null
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:757
 msgid "{actor} pinned a message{0}."
-msgstr "{actor} закрепил сообщение{0}."
+msgstr "{actor} закрепляет сообщение{0}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:600
 msgid "{actor} pruned inactive members."
-msgstr "{actor} очистил неактивных участников."
+msgstr "{actor} очищает неактивных участников."
 
 #. placeholder {0}: renderValueInline(pruneDays, guildId, i18n)
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:591
 msgid "{actor} pruned members inactive for {0} day."
-msgstr "{actor} удалил участников, неактивных в течение {0} дня."
+msgstr "{actor} удаляет участников, неактивных в течение {0} дня."
 
 #. placeholder {0}: renderValueInline(pruneDays, guildId, i18n)
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:595
 msgid "{actor} pruned members inactive for {0} days."
-msgstr "{actor} удалил участников, неактивных {0} дней."
+msgstr "{actor} удаляет участников, неактивных {0} дней."
 
 #. placeholder {0}: channelNode ? <> in {channelNode}</> : null
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:549
 msgid "{actor} removed channel permissions for {targetEntity}{0}."
-msgstr "{actor} убрал разрешения для канала {targetEntity}{0}."
+msgstr "{actor} убирает разрешения для канала {targetEntity}{0}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:569
 msgid "{actor} unbanned {targetMember}."
-msgstr "{actor} разбанил {targetMember}."
+msgstr "{actor} разбанивает {targetMember}."
 
 #. placeholder {0}: channelNode ? <> in {channelNode}</> : null
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:763
 msgid "{actor} unpinned a message{0}."
-msgstr "{actor} открепил сообщение{0}."
+msgstr "{actor} открепляет сообщение{0}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:576
 msgid "{actor} updated {targetMember}."
-msgstr "{actor} обновил {targetMember}."
+msgstr "{actor} обновляет {targetMember}."
 
 #. placeholder {0}: channelNode ? <> in {channelNode}</> : null
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:542
 msgid "{actor} updated channel permissions for {targetEntity}{0}."
-msgstr "{actor} обновил разрешения для канала {targetEntity}{0}."
+msgstr "{actor} обновляет разрешения для канала {targetEntity}{0}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:582
 msgid "{actor} updated roles for {targetMember}."
-msgstr "{actor} обновил роли {targetMember}."
+msgstr "{actor} обновляет роли {targetMember}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:522
 msgid "{actor} updated the channel {namedTarget}."
-msgstr "{actor} обновил канал {namedTarget}."
+msgstr "{actor} обновляет канал {namedTarget}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:512
 msgid "{actor} updated the community settings."
-msgstr "{actor} обновил настройки сообщества."
+msgstr "{actor} обновляет настройки сообщества."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:699
 msgid "{actor} updated the emoji {namedTarget}."
-msgstr "{actor} обновил эмодзи {namedTarget}."
+msgstr "{actor} обновляет эмодзи {namedTarget}."
 
 #. placeholder {0}: channelNode ? <> for {channelNode}</> : null
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:659
 msgid "{actor} updated the invite {namedTarget}{0}."
-msgstr "{actor} обновил приглашение {namedTarget}{0}."
+msgstr "{actor} обновляет приглашение {namedTarget}{0}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:639
 msgid "{actor} updated the role {namedTarget}."
-msgstr "{actor} обновил роль {namedTarget}."
+msgstr "{actor} обновляет роль {namedTarget}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:718
 msgid "{actor} updated the sticker {namedTarget}."
-msgstr "{actor} обновил стикер {namedTarget}."
+msgstr "{actor} обновляет стикер {namedTarget}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:680
 msgid "{actor} updated the webhook {namedTarget}."
-msgstr "{actor} обновил вебхук {namedTarget}."
+msgstr "{actor} обновляет вебхук {namedTarget}."
 
 #: src/utils/TtsUtils.tsx:283
 msgid "{authorName} {description}"
@@ -513,64 +513,64 @@ msgstr "{effectiveStatusLabel} статус"
 #. placeholder {0}: users[0]
 #: src/utils/ReactionUtils.tsx:63
 msgid "{emojiName} reacted by {0}"
-msgstr "{emojiName} отреагировал {0}"
+msgstr "{0} добавляет реакцию {emojiName}"
 
 #. placeholder {0}: users[0]
 #. placeholder {1}: users[1]
 #: src/utils/ReactionUtils.tsx:72
 msgid "{emojiName} reacted by {0} and {1}"
-msgstr "{emojiName} отреагировали {0} и {1}"
+msgstr "{0} и {1} добавили реакцию {emojiName}"
 
 #. placeholder {0}: users[0]
 #: src/utils/ReactionUtils.tsx:60
 msgid "{emojiName} reacted by {0} and {othersCount} other"
-msgstr "{emojiName} отреагировал {0} и {othersCount} другим"
+msgstr "{0} и ещё {othersCount} человек добавили реакцию {emojiName}"
 
 #. placeholder {0}: users[0]
 #: src/utils/ReactionUtils.tsx:61
 msgid "{emojiName} reacted by {0} and {othersCount} others"
-msgstr "{emojiName} отреагировал {0} и {othersCount} другими"
+msgstr "{0} и ещё {othersCount} человек добавили реакцию {emojiName}"
 
 #. placeholder {0}: users[0]
 #. placeholder {1}: users[1]
 #. placeholder {2}: users[2]
 #: src/utils/ReactionUtils.tsx:81
 msgid "{emojiName} reacted by {0}, {1} and {2}"
-msgstr "{emojiName} отреагировали {0}, {1} и {2}"
+msgstr "{0}, {1} и {2} добавили реакцию {emojiName}"
 
 #. placeholder {0}: users[0]
 #. placeholder {1}: users[1]
 #: src/utils/ReactionUtils.tsx:69
 msgid "{emojiName} reacted by {0}, {1} and {othersCount} other"
-msgstr "{emojiName} отреагировал {0}, {1} и {othersCount} другим"
+msgstr "{0}, {1} и ещё {othersCount} человек добавили реакцию {emojiName}"
 
 #. placeholder {0}: users[0]
 #. placeholder {1}: users[1]
 #: src/utils/ReactionUtils.tsx:70
 msgid "{emojiName} reacted by {0}, {1} and {othersCount} others"
-msgstr "{emojiName} отреагировал {0}, {1} и {othersCount} другими"
+msgstr "{0}, {1} и ещё {othersCount} человек добавили реакцию {emojiName}"
 
 #. placeholder {0}: users[0]
 #. placeholder {1}: users[1]
 #. placeholder {2}: users[2]
 #: src/utils/ReactionUtils.tsx:78
 msgid "{emojiName} reacted by {0}, {1}, {2} and {othersCount} other"
-msgstr "{emojiName} отреагировал {0}, {1}, {2} и {othersCount} другим"
+msgstr "{0}, {1}, {2} и ещё {othersCount} человек добавили реакцию {emojiName}"
 
 #. placeholder {0}: users[0]
 #. placeholder {1}: users[1]
 #. placeholder {2}: users[2]
 #: src/utils/ReactionUtils.tsx:79
 msgid "{emojiName} reacted by {0}, {1}, {2} and {othersCount} others"
-msgstr "{emojiName} отреагировал {0}, {1}, {2} и {othersCount} другими"
+msgstr "{0}, {1}, {2} и ещё {othersCount} человек добавили реакцию {emojiName}"
 
 #: src/utils/ReactionUtils.tsx:85
 msgid "{emojiName} reacted by {othersCount} other"
-msgstr "{emojiName} отреагировал {othersCount} другим"
+msgstr "{othersCount} человек добавили реакцию {emojiName}"
 
 #: src/utils/ReactionUtils.tsx:86
 msgid "{emojiName} reacted by {othersCount} others"
-msgstr "{emojiName} отреагировал {othersCount} другими"
+msgstr "{othersCount} человек добавили реакцию {emojiName}"
 
 #: src/components/shared/MessageReactionsContent.tsx:54
 msgid "{emojiName}, {reactionCountText}"
@@ -777,7 +777,7 @@ msgstr "{seconds} секунды"
 
 #: src/components/auth/GiftHeader.tsx:47
 msgid "{sender} sent you a gift!"
-msgstr "{sender} отправил тебе подарок!"
+msgstr "{sender} отправляет тебе подарок!"
 
 #: src/components/channel/MobileStickersPicker.tsx:142
 #: src/components/channel/StickersPicker.tsx:141
@@ -836,23 +836,23 @@ msgstr "{unreadCount}+ новых с {shortTime}"
 #. placeholder {0}: mentionedUser.username
 #: src/utils/SystemMessageUtils.tsx:96
 msgid "{username} added {0} to the group."
-msgstr "{username} добавил {0} в группу."
+msgstr "{username} добавляет {0} в группу."
 
 #: src/utils/SystemMessageUtils.tsx:98
 msgid "{username} added someone to the group."
-msgstr "{username} добавил кого-то в группу."
+msgstr "{username} добавляет кого-то в группу."
 
 #: src/utils/SystemMessageUtils.tsx:120
 msgid "{username} changed the channel icon."
-msgstr "{username} сменил значок канала."
+msgstr "{username} меняет значок канала."
 
 #: src/utils/SystemMessageUtils.tsx:115
 msgid "{username} changed the channel name to {newName}."
-msgstr "{username} переименовал канал в {newName}."
+msgstr "{username} переименовывает канал в {newName}."
 
 #: src/utils/SystemMessageUtils.tsx:117
 msgid "{username} changed the channel name."
-msgstr "{username} сменил название канала."
+msgstr "{username} меняет название канала."
 
 #: src/utils/SystemMessageUtils.tsx:104
 msgid "{username} has left the group."
@@ -860,20 +860,20 @@ msgstr "{username} покинул(-а) группу."
 
 #: src/utils/SystemMessageUtils.tsx:91
 msgid "{username} pinned a message to this channel."
-msgstr "{username} закрепил сообщение в этом канале."
+msgstr "{username} закрепляет сообщение в этом канале."
 
 #. placeholder {0}: mentionedUser.username
 #: src/utils/SystemMessageUtils.tsx:108
 msgid "{username} removed {0} from the group."
-msgstr "{username} удалил {0} из группы."
+msgstr "{username} удаляет {0} из группы."
 
 #: src/utils/SystemMessageUtils.tsx:110
 msgid "{username} removed someone from the group."
-msgstr "{username} удалил кого-то из группы."
+msgstr "{username} удаляет кого-то из группы."
 
 #: src/utils/SystemMessageUtils.tsx:122
 msgid "{username} started a call."
-msgstr "{username} начал звонок."
+msgstr "{username} начинает звонок."
 
 #: src/components/modals/tabs/developer_options_tab/AccountPremiumTab.tsx:100
 msgid "{v} gift"
@@ -961,23 +961,23 @@ msgstr "# лет"
 
 #: src/components/channel/RecipientAddMessage.tsx:45
 msgid "<0/> added <1/> to the group."
-msgstr "<0/> добавил <1/> в группу."
+msgstr "<0/> добавляет <1/> в группу."
 
 #: src/components/channel/RecipientAddMessage.tsx:50
 msgid "<0/> added someone to the group."
-msgstr "<0/> добавил кого-то в группу."
+msgstr "<0/> добавляет кого-то в группу."
 
 #: src/components/channel/ChannelIconChangeMessage.tsx:40
 msgid "<0/> changed the channel icon."
-msgstr "<0/> сменил значок канала."
+msgstr "<0/> меняет значок канала."
 
 #: src/components/channel/ChannelNameChangeMessage.tsx:50
 msgid "<0/> changed the channel name to {nameComponent}."
-msgstr "<0/> переименовал канал в {nameComponent}."
+msgstr "<0/> переименовывает канал в {nameComponent}."
 
 #: src/components/channel/ChannelNameChangeMessage.tsx:55
 msgid "<0/> changed the channel name."
-msgstr "<0/> сменил название канала."
+msgstr "<0/> меняет название канала."
 
 #: src/components/channel/RecipientRemoveMessage.tsx:47
 msgid "<0/> has left the group."
@@ -985,15 +985,15 @@ msgstr "<0/> покинул(-а) группу."
 
 #: src/components/channel/PinSystemMessage.tsx:62
 msgid "<0/> pinned <1>a message</1> to this channel. See <2>all pinned messages</2>."
-msgstr "<0/> закрепил <1>сообщение</1> в этом канале. Смотри <2>все закреплённые сообщения</2>."
+msgstr "<0/> закрепляет <1>сообщение</1> в этом канале. Смотри <2>все закреплённые сообщения</2>."
 
 #: src/components/channel/RecipientRemoveMessage.tsx:51
 msgid "<0/> removed <1/> from the group."
-msgstr "<0/> удалил <1/> из группы."
+msgstr "<0/> удаляет <1/> из группы."
 
 #: src/components/channel/RecipientRemoveMessage.tsx:57
 msgid "<0/> removed someone from the group."
-msgstr "<0/> удалил кого-то из группы."
+msgstr "<0/> удаляет кого-то из группы."
 
 #: src/components/channel/CallMessage.tsx:173
 msgid "<0/> started a call that lasted {durationText}."
@@ -1001,7 +1001,7 @@ msgstr "<0/> провёл звонок продолжительностью {dur
 
 #: src/components/channel/CallMessage.tsx:142
 msgid "<0/> started a call."
-msgstr "<0/> начал звонок."
+msgstr "<0/> начинает звонок."
 
 #. placeholder {0}: guild.name
 #: src/components/layout/GuildLayout.tsx:134
@@ -1047,15 +1047,15 @@ msgstr "<0>{seconds} секунды</0>"
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:480
 msgid "<0>Deafened</0> the member."
-msgstr "<0>Отключил звук</0> участнику."
+msgstr "<0>Отключает звук</0> участнику."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:281
 msgid "<0>Disabled</0> two-factor authentication requirement."
-msgstr "<0>Отключил</0> требование двухфакторной аутентификации."
+msgstr "<0>Отключает</0> требование двухфакторной аутентификации."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:277
 msgid "<0>Enabled</0> two-factor authentication requirement."
-msgstr "<0>Включил</0> требование двухфакторной аутентификации."
+msgstr "<0>Включает</0> требование двухфакторной аутентификации."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:692
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:228
@@ -1074,19 +1074,19 @@ msgstr "<0>Выключил звук</0> участнику."
 #. placeholder {0}: renderInline(change.oldValue, i18n)
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:472
 msgid "<0>Removed</0> nickname {0}."
-msgstr "<0>Удалил</0> никнейм {0}."
+msgstr "<0>Удаляет</0> никнейм {0}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:334
 msgid "<0>Removed</0> the vanity URL."
-msgstr "<0>Удалил</0> пользовательскую ссылку."
+msgstr "<0>Удаляет</0> пользовательскую ссылку."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:484
 msgid "<0>Undeafened</0> the member."
-msgstr "<0>Включил звук</0> участнику."
+msgstr "<0>Включает звук</0> участнику."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:494
 msgid "<0>Unmuted</0> the member."
-msgstr "<0>Включил звук</0> участнику."
+msgstr "<0>Включает звук</0> участнику."
 
 #: src/components/modals/tabs/account_security_tab/SecurityTab.tsx:370
 msgid "<0>Warning:</0> This will also disable SMS two-factor authentication."
@@ -1765,7 +1765,7 @@ msgstr "Добавить бота в сообщество с запрошенн�
 
 #: src/components/modals/ForwardModal.tsx:309
 msgid "Add a comment (optional)"
-msgstr "Добавить комментарий (необязательно)"
+msgstr "Добавить комментарий (опционально)"
 
 #: src/components/layout/guild_list/AddGuildButton.tsx:90
 #: src/components/layout/guild_list/AddGuildButton.tsx:95
@@ -3514,7 +3514,7 @@ msgstr "Забанен {0}."
 
 #: src/components/modals/BanDetailsModal.tsx:106
 msgid "Banned by"
-msgstr "Забанил"
+msgstr "Банит"
 
 #: src/components/modals/BanDetailsModal.tsx:90
 msgid "Banned on"
@@ -4993,7 +4993,7 @@ msgstr "Очистить доверенные домены"
 #. placeholder {0}: renderValueInline(change.oldValue, guildId, i18n)
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:166
 msgid "Cleared {fieldNode} (was {0})."
-msgstr "Очистил {fieldNode} (было {0})."
+msgstr "Очищает {fieldNode} (было {0})."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:560
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:563
@@ -5002,7 +5002,7 @@ msgstr "Биография очищена."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:408
 msgid "Cleared the message history threshold."
-msgstr "Очистил порог истории сообщений."
+msgstr "Очищает порог истории сообщений."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:569
 msgid "Cleared the pronouns."
@@ -7277,12 +7277,12 @@ msgstr "Удаление очистит <0>{formattedMessageCount}</0> сооб�
 #. placeholder {1}: renderInline(removedLabels, i18nInstance)
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:196
 msgid "Denied {0} and removed deny for {1}."
-msgstr "Запретил {0} и снял запрет с {1}."
+msgstr "Запрещает {0} и снимает запрет с {1}."
 
 #. placeholder {0}: renderInline(addedLabels, i18nInstance)
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:191
 msgid "Denied {0}."
-msgstr "Запретил {0}."
+msgstr "Запрещает {0}."
 
 #: src/components/pages/report/OptionDescriptors.tsx:89
 msgid "Denmark"
@@ -7439,12 +7439,12 @@ msgstr "Приложения разработчика"
 msgid "developer mode"
 msgstr "режим разработчика"
 
-#: src/components/modals/tabs/AdvancedTab.tsx:158
+#: src/components/modals/tabs/AdvancedTab.tsx:149
 #: src/components/modals/utils/SettingsSearchIndex.tsx:215
 msgid "Developer Mode"
 msgstr "Режим разработчика"
 
-#: src/components/modals/tabs/AdvancedTab.tsx:149
+#: src/components/modals/tabs/AdvancedTab.tsx:130
 msgid "Developer Options"
 msgstr "Опции разработчика"
 
@@ -10201,7 +10201,7 @@ msgstr "форматирование"
 #: src/components/channel/MessageActionMenu.tsx:224
 #: src/components/uikit/context_menu/items/MessageMenuItems.tsx:119
 msgid "Forward"
-msgstr "Вперёд"
+msgstr "Переслать"
 
 #: src/components/media_player/components/AudioPlayer.tsx:277
 #: src/components/media_player/components/AudioPlayer.tsx:283
@@ -10215,7 +10215,7 @@ msgstr "Переслать сообщение"
 
 #: src/stores/KeybindStore.tsx:362
 msgid "Forward the focused message to a different channel"
-msgstr "Переслать фокусируемое сообщение в другой канал"
+msgstr "Переслать выбранное сообщение в другой канал"
 
 #: src/components/channel/MessageAttachments.tsx:166
 msgid "Forwarded"
@@ -10253,20 +10253,20 @@ msgstr "Бесплатно"
 
 #: src/components/modals/tabs/developer_options_tab/PremiumScenarioOptions.tsx:52
 msgid "Free User (No Purchases)"
-msgstr "Бесплатный пользователь (без покупок)"
+msgstr "Обычный пользователь (без покупок)"
 
 #: src/components/modals/tabs/developer_options_tab/PremiumScenarioOptions.tsx:53
 msgid "Free User (With Purchase History)"
-msgstr "Бесплатный пользователь (с историей покупок)"
+msgstr "Обычный пользователь (с историей покупок)"
 
 #: src/components/modals/components/PlutoniumContent.tsx:146
 #: src/components/modals/components/PlutoniumContent.tsx:243
 msgid "Free vs Plutonium"
-msgstr "Бесплатно против Plutonium"
+msgstr "Обычный против Plutonium"
 
 #: src/components/modals/tabs/VideoTab.tsx:237
 msgid "Freezes your preview while Fluxer is in the background to save resources."
-msgstr "Замораживает ваш предварительный просмотр, пока Fluxer находится в фоновом режиме, чтобы сэкономить ресурсы."
+msgstr "Приостанавливает предварительный просмотр, пока Fluxer находится в фоновом режиме, для экономии ресурсов."
 
 #: src/utils/LocaleUtils.tsx:49
 msgid "French"
@@ -10356,7 +10356,7 @@ msgstr "Только друзья"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:447
 msgid "friends only calls"
-msgstr "звонки только для друзей"
+msgstr "Звонки только от друзей"
 
 #: src/components/bottomsheets/ChannelSearchBottomSheet.tsx:446
 msgid "From"
@@ -10398,7 +10398,7 @@ msgstr "Полный динамический диапазон"
 
 #: src/components/pages/report/ReportStepDetails.tsx:195
 msgid "Full Legal Name"
-msgstr "Полное юридическое имя"
+msgstr "Полное имя (ФИО)"
 
 #: src/components/modals/GuildFolderSettingsModal.tsx:95
 msgid "Game controller"
@@ -10458,7 +10458,7 @@ msgstr "Генерируется код..."
 #: src/components/modals/tabs/developer_options_tab/MockingTab.tsx:258
 #: src/components/modals/tabs/developer_options_tab/MockingTab.tsx:275
 msgid "Geo Restricted"
-msgstr "Гео-ограничено"
+msgstr "Ограничено по географическому положению"
 
 #: src/utils/LocaleUtils.tsx:42
 msgid "German"
@@ -10470,7 +10470,7 @@ msgstr "Германия"
 
 #: src/components/modals/tabs/VideoTab.tsx:275
 msgid "Get crystal clear screen sharing with High (1080p), Ultra (1440p), and 4K (2160p) resolutions, plus unlock frame rates up to 60 FPS for the smoothest experience."
-msgstr "Получите кристально чистый экранный обмен с высокими (1080p), ультра (1440p) и 4K (2160p) разрешениями, а также разблокируйте частоту кадров до 60 FPS для самого плавного опыта."
+msgstr "Наслаждайся кристально чёткой демонстрацией экрана в разрешениях High (1080p), Ultra (1440p) и 4K (2160p), а также разблокируй частоту до 60 FPS для максимально плавного изображения."
 
 #: src/components/modals/tabs/KeybindsTab.tsx:114
 msgid "Get desktop app"
@@ -10486,7 +10486,7 @@ msgstr "Получите высокие (1080p), ультра (1440p) и 4K (216
 
 #: src/components/modals/tabs/notifications_tab/Notifications.tsx:94
 msgid "Get notified when you receive messages. You may need to allow notifications in your browser settings. For per-channel/per-community controls, right-click a community icon and open Notification Settings."
-msgstr "Получай уведомления о новых сообщениях. Возможно, нужно разрешить уведомления в настройках браузера. Для контроля по каналам/сообществам нажми правой кнопкой на иконку сообщества и выбери «Настройки уведомлений»."
+msgstr "Получай уведомления о новых сообщениях. Тебе может потребоваться разрешить их в настройках браузера. Для настройки отдельных каналов или сообществ нажми правой кнопкой мыши на иконку сообщества и выбери «Настройки уведомлений»."
 
 #: src/components/alerts/FileSizeTooLargeModal.tsx:84
 #: src/components/modals/BackgroundImageGalleryModal.tsx:678
@@ -10517,7 +10517,7 @@ msgstr "Показывать запрос при подключении новы
 
 #: src/components/layout/app_layout/nagbars/DesktopDownloadNagbar.tsx:50
 msgid "Get the Fluxer desktop app for system-wide push-to-talk and a few other goodies."
-msgstr "Скачай Fluxer для компьютера — там системный push-to-talk и ещё кое-что полезное."
+msgstr "Скачай Fluxer для компьютера — там системный push-to-talk и возможность получить доступ к другим дополнительным возможностям."
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:280
 msgid "gif"
@@ -10530,7 +10530,7 @@ msgstr "GIF"
 
 #: src/components/modals/tabs/chat_settings_tab/MediaTab.tsx:161
 msgid "GIF Behavior"
-msgstr "Поведение GIF"
+msgstr "Воспроизведение GIF"
 
 #: src/components/channel/MediaActionBottomSheet.tsx:103
 msgid "GIF Options"
@@ -10550,7 +10550,7 @@ msgstr "Предпросмотр GIF"
 #: src/components/panels/panels/GuildExpressionPickerPanel.tsx:64
 #: src/components/popouts/ExpressionPickerPopout.tsx:71
 msgid "GIFs"
-msgstr "GIF"
+msgstr "GIFs"
 
 #: src/components/modals/components/plutonium/SubscriptionCard.tsx:133
 #: src/components/modals/GiftAcceptModal.tsx:211
@@ -10671,7 +10671,7 @@ msgstr "Глобальный доступ к эмодзи и стикерам"
 
 #: src/components/modals/tabs/my_profile_tab/ProfileTypeSelector.tsx:40
 msgid "Global Profile"
-msgstr "Глобальный профиль"
+msgstr "Основной профиль"
 
 #: src/components/modals/tabs/KeybindsTab.tsx:91
 msgid "Global shortcut"
@@ -10832,7 +10832,7 @@ msgstr "Групповое ЛС"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:455
 msgid "group dm"
-msgstr "групповой dm"
+msgstr "групповое лс"
 
 #: src/components/modals/shared/RecipientList.tsx:198
 msgid "Group DM"
@@ -10845,7 +10845,7 @@ msgstr "Групповое ЛС · {0} участников"
 
 #: src/components/bottomsheets/ChannelDetailsBottomSheet.tsx:936
 msgid "Group DM · 1 member"
-msgstr "Групповой DM · 1 участник"
+msgstr "Групповое ЛС · 1 участник"
 
 #: src/components/modals/tabs/component_gallery_tab/IndicatorsTab.tsx:202
 msgid "Group DM Avatars"
@@ -10952,7 +10952,7 @@ msgstr "Преследование или травля"
 
 #: src/components/modals/utils/SettingsSearchIndex.tsx:223
 msgid "hardware"
-msgstr "аппаратное обеспечение"
+msgstr "оборудование"
 
 #: src/components/modals/tabs/AdvancedTab.tsx:137
 #: src/components/modals/utils/SettingsSearchIndex.tsx:222
@@ -11031,7 +11031,7 @@ msgstr "Привет, {username}! Пиши свою историю прямо з
 
 #: src/components/channel/friends/views/PendingFriendsView.tsx:83
 msgid "Hello? McFly? Anybody trying to add you yet?"
-msgstr "Привет? МакФлай? Кто-нибудь уже пытается тебя добавить?"
+msgstr "Эй, Макфлай! Есть кто дома? Кто-нибудь уже пытается тебя добавить?"
 
 #: src/components/layout/guild_list/HelpButton.tsx:52
 #: src/components/layout/guild_list/HelpButton.tsx:57
@@ -11132,11 +11132,11 @@ msgstr "Скрыть заглушённые каналы"
 
 #: src/components/modals/tabs/chat_settings_tab/SidebarTab.tsx:105
 msgid "Hide muted channels by default"
-msgstr "Скрывать отключенные каналы по умолчанию"
+msgstr "Скрывать заглушённые каналы по умолчанию"
 
 #: src/components/modals/tabs/chat_settings_tab/SidebarTab.tsx:42
 msgid "Hide muted channels by default?"
-msgstr "Скрывать отключенные каналы по умолчанию?"
+msgstr "Скрывать заглушённые каналы по умолчанию?"
 
 #: src/components/voice/VoiceCallLayoutContent.tsx:285
 msgid "Hide Participants"
@@ -11238,7 +11238,7 @@ msgstr "Разогнаться до 88 миль/ч"
 
 #: src/components/modals/AddGuildModal.tsx:155
 msgid "Hobby Haven"
-msgstr "Убежище хобби"
+msgstr "Уголок увлечений"
 
 #: src/components/modals/guild_tabs/GuildRolesTab.tsx:763
 msgid "Hoist Order"
@@ -11409,7 +11409,7 @@ msgstr "Ожидание"
 
 #: src/components/modals/guild_tabs/guild_overview_tab/sections/IdleSettingsSection.tsx:52
 msgid "Idle Settings"
-msgstr "Настройки простоя"
+msgstr "Настройки режима бездействия"
 
 #: src/components/layout/app_layout/nagbars/DesktopNotificationNagbar.tsx:84
 msgid "If you dismiss this, you can always enable desktop notifications later under User Settings > Notifications."
@@ -11451,7 +11451,7 @@ msgstr "Игнорировать запрос в друзья"
 #: src/utils/PermissionUtils.tsx:357
 #: src/utils/PermissionUtils.tsx:492
 msgid "Ignore per-channel message rate limits."
-msgstr "Игнорировать ограничения скорости сообщений по каналам."
+msgstr "Игнорировать ограничения на частоту отправки сообщений в каналах."
 
 #: src/components/pages/report/OptionDescriptors.tsx:48
 #: src/components/pages/report/OptionDescriptors.tsx:73
@@ -11524,7 +11524,7 @@ msgstr "Важная информация:"
 
 #: src/actions/ThemeActionCreators.tsx:34
 msgid "Imported theme has been applied."
-msgstr "Импортированная тема применена."
+msgstr "Импортированная тема была успешно применена."
 
 #: src/lib/markdown/utils/DateFormatter.tsx:93
 msgid "in {absDays} days"
@@ -11808,7 +11808,7 @@ msgstr "Установить набор эмодзи"
 
 #: src/components/layout/app_layout/nagbars/MobileDownloadNagbar.tsx:50
 msgid "Install Fluxer on your phone as a home screen app to receive notifications on the go!"
-msgstr "Установите Fluxer на свой телефон как приложение на главном экране, чтобы получать уведомления на ходу!"
+msgstr "Установите Fluxer на телефон в качестве приложения для главного экрана, чтобы получать уведомления в любое время!"
 
 #: src/components/channel/InviteEmbed.tsx:223
 #: src/components/modals/InviteAcceptModal.tsx:160
@@ -12064,18 +12064,18 @@ msgstr "Приглашен"
 #. placeholder {0}: renderValueInline(value, guildId, i18n)
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:199
 msgid "Invited by {0}."
-msgstr "Пригласил(а) {0}."
+msgstr "Приглашает(а) {0}."
 
 #. placeholder {0}: invite.inviter.username
 #. placeholder {1}: invite.inviter.discriminator
 #: src/components/modals/InviteAcceptModal.tsx:173
 msgid "Invited by {0}#{1}"
-msgstr "Пригласил(а) {0}#{1}"
+msgstr "Приглашает {0}#{1}"
 
 #: src/components/auth/InviteHeader.tsx:162
 #: src/components/channel/InviteEmbed.tsx:247
 msgid "Invited by {inviterTag}"
-msgstr "Пригласил(а) {inviterTag}"
+msgstr "Приглашает {inviterTag}"
 
 #: src/components/invites/InviteListItem.tsx:48
 msgid "Inviter"
@@ -12339,7 +12339,7 @@ msgstr "JPEG, PNG, WebP. Макс 10MB. Рекомендуется: 512×512px."
 
 #: src/components/modals/tabs/my_profile_tab/AvatarUploader.tsx:304
 msgid "JPEG, PNG, WebP. Max 10MB. Recommended: 512×512px. Animated avatars (GIF) require <0/>."
-msgstr "JPEG, PNG, WebP. Макс. 10 МБ. Рекомендуется: 512×512 пикселей. Для анимированных аватарок (GIF) требуется <0/>."
+msgstr "JPEG, PNG, WebP. Макс. 10 МБ. Рекомендуется: 512×512px. Для анимированных аватарок (GIF) требуется <0/>."
 
 #: src/utils/AttachmentPreviewUtils.tsx:176
 msgid "JSON"
@@ -13179,7 +13179,7 @@ msgstr "Управление сообщениями"
 
 #: src/utils/PermissionUtils.tsx:279
 msgid "Manage Nicknames"
-msgstr "Управление прозвищами"
+msgstr "Управление именами"
 
 #: src/utils/PermissionUtils.tsx:444
 msgid "Manage Permissions"
@@ -13305,7 +13305,7 @@ msgstr "Пометить как непрочитанное"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:705
 msgid "markdown"
-msgstr "разметка"
+msgstr "markdown"
 
 #: src/components/modals/tabs/component_gallery_tab/index.tsx:274
 #: src/components/modals/utils/SettingsConstants.tsx:313
@@ -17153,7 +17153,7 @@ msgstr "Активировано {0}"
 #. placeholder {1}: gift.redeemed_by.discriminator
 #: src/components/modals/tabs/GiftInventoryTab.tsx:155
 msgid "Redeemed by {0}#{1}"
-msgstr "Активировал {0}#{1}"
+msgstr "Активирует {0}#{1}"
 
 #: src/components/modals/tabs/applications_tab/application_detail/OAuthBuilderSection.tsx:99
 msgid "Redirect URI"
@@ -18128,11 +18128,11 @@ msgstr "Перемотать на {DEFAULT_SEEK_AMOUNT} секунд назад"
 
 #: src/components/modals/tabs/component_gallery_tab/MessagesTab.tsx:348
 msgid "Rich Embed"
-msgstr "Богатое вложение"
+msgstr "Расширенное вложение"
 
 #: src/components/modals/tabs/component_gallery_tab/MessagesTab.tsx:344
 msgid "Rich embeds with actual CDN thumbnails."
-msgstr "Богатые встраивания с реальными миниатюрами CDN."
+msgstr "Расширенное встраивания с реальными миниатюрами CDN."
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:705
 msgid "rich text"
@@ -23198,7 +23198,7 @@ msgstr "Загруженные вложения"
 
 #: src/components/emojis/EmojiListItem.tsx:144
 msgid "Uploaded By"
-msgstr "Загрузил"
+msgstr "Загружает"
 
 #: src/components/modals/EmojiUploadModal.tsx:42
 msgid "Uploading {emojiText}. This may take a little while."
@@ -23533,7 +23533,7 @@ msgstr "Использования"
 
 #: src/components/modals/tabs/AdvancedTab.tsx:139
 msgid "Uses H.265 for screen sharing when enabled. Turn this off to prefer VP9. Changes apply the next time you start sharing your screen."
-msgstr "Использует H.265 для совместного использования экрана, когда это включено. Отключите это, чтобы предпочесть VP9. Изменения применятся в следующий раз, когда вы начнете делиться экраном."
+msgstr "При включении использует кодек H.265 для демонстрации экрана. Отключите этот параметр, чтобы использовать VP9. Изменения вступят в силу при следующем запуске демонстрации."
 
 #: src/components/modals/tabs/notifications_tab/Notifications.tsx:93
 msgid "Uses the OS notification center. For per-channel/per-community controls, right-click a community icon and open Notification Settings."
@@ -25407,7 +25407,7 @@ msgstr "Ты достиг лимита в {maxBackgroundImages} фонов. Уд
 
 #: src/components/auth/GiftHeader.tsx:47
 msgid "You've received a gift!"
-msgstr "Ты получил подарок!"
+msgstr "Вы получили подарок!"
 
 #: src/components/pages/RecentMentionsPage.tsx:59
 #: src/components/popouts/RecentMentionsContent.tsx:280
@@ -25424,11 +25424,11 @@ msgstr "Ваш аккаунт был успешно связан. Теперь �
 
 #: src/components/modals/components/UnclaimedAccountAlert.tsx:36
 msgid "Your account is not yet claimed. Without an email and password, you won't be able to sign in from other devices and you could lose access to your account. Claim your account now to secure it."
-msgstr "Твой аккаунт ещё не закреплён. Без почты и пароля ты не сможешь войти с других устройств и можешь потерять доступ. Закрепи аккаунт сейчас, чтобы защитить его."
+msgstr "Твой аккаунт ещё не подтверждён. Без почты и пароля ты не сможешь войти с других устройств и можешь потерять доступ. Подтверди аккаунт сейчас, чтобы защитить его."
 
 #: src/components/channel/barriers/BarrierComponents.tsx:168
 msgid "Your account is too new to send messages in this community."
-msgstr "Твой аккаунт слишком новый, чтобы отправлять сообщения в этом сообществе."
+msgstr "Твой аккаунт ещё слишком молодой, чтобы писать в этом сообществе."
 
 #: src/components/modals/guild_tabs/GuildDiscoveryTab.tsx:278
 msgid "Your application is pending review. You can still update your listing details or withdraw the application."
@@ -25440,7 +25440,7 @@ msgstr "Твой браузер не поддерживает уведомлен
 
 #: src/components/modals/AudioPlaybackPermissionModal.tsx:33
 msgid "Your browser requires user interaction before audio can be played. Click the button below to enable voice chat."
-msgstr "Твой браузер требует действия пользователя, прежде чем воспроизвести звук. Нажми кнопку ниже, чтобы включить голосовой чат."
+msgstr "Твоему браузеру требуется подтверждение для воспроизведения звука. Нажми кнопку ниже, чтобы включить голосовой чат."
 
 #: src/components/auth/HandoffCodeDisplay.tsx:93
 msgid "Your code"
@@ -25489,7 +25489,7 @@ msgstr "Текущие настройки звуков уведомлений с
 
 #: src/components/modals/tabs/privacy_safety_tab/DataExportTab.tsx:62
 msgid "Your export request will be processed"
-msgstr "Твой запрос на экспорт будет обработан"
+msgstr "Твой запрос на экспорт данных принят в обработку"
 
 #: src/components/pages/report/ReportStepDetails.tsx:213
 msgid "Your FluxerTag (Optional)"
@@ -25510,11 +25510,11 @@ msgstr "Твоя ссылка приглашения истекает через
 
 #: src/components/pages/AuthorizeIPPage.tsx:117
 msgid "Your IP address has been successfully authorized."
-msgstr "Твой IP-адрес был успешно авторизован."
+msgstr "Твой IP-адрес успешно авторизован."
 
 #: src/components/alerts/UserIpBannedFromGuildModal.tsx:30
 msgid "Your IP address is banned from this community and you cannot join."
-msgstr "Твой IP-адрес заблокирован в этом сообществе, и ты не можешь присоединиться."
+msgstr "Твой IP-адрес заблокирован, поэтому ты не можешь вступить в это сообщество."
 
 #: src/components/alerts/UserIpBannedFromGuildModal.tsx:29
 msgid "Your IP is Banned"
@@ -25522,11 +25522,11 @@ msgstr "Твой IP заблокирован"
 
 #: src/lib/MessageQueue.tsx:386
 msgid "Your message could not be delivered. This is usually because you don't share a community with the recipient or the recipient is only accepting direct messages from friends."
-msgstr "Твоё сообщение не удалось доставить. Обычно это происходит, потому что ты не в одном сообществе или получатель принимает личные сообщения только от друзей."
+msgstr "Твоё сообщение не удалось доставить. Скорее всего, у вас нет общих сообществ или получатель принимает сообщения только от друзей."
 
 #: src/lib/MessageQueue.tsx:398
 msgid "Your message could not be delivered. You need to claim your account to send direct messages."
-msgstr "Твоё сообщение не удалось доставить. Тебе нужно закрепить аккаунт, чтобы отправлять личные сообщения."
+msgstr "Твоё сообщение не удалось доставить. Тебе необходимо подтвердить свой аккаунт, чтобы отправлять личные сообщения."
 
 #: src/lib/MessageQueue.tsx:399
 msgid "Your message could not be delivered. You need to claim your account to send messages."
@@ -25554,7 +25554,7 @@ msgstr "Твоё личное пространство для быстрого �
 
 #: src/components/layout/app_layout/nagbars/PremiumExpiredNagbar.tsx:68
 msgid "Your Plutonium subscription has expired. You've lost all Plutonium perks. Reactivate your subscription to regain access."
-msgstr "Твоя подписка Plutonium истекла. Ты потерял все преимущества Plutonium. Восстанови подписку, чтобы вернуть доступ."
+msgstr "Срок действия твоей подписки Plutonium истёк, и доступ к её преимуществам был ограничен. Продли подписку, чтобы вернуть все бонусы."
 
 #: src/components/bottomsheets/ChannelDetailsBottomSheet.tsx:946
 msgid "Your private space"
@@ -25591,7 +25591,7 @@ msgstr "Твоя подписка истекла <0>{expiredDate}</0>. Ты по
 
 #: src/components/layout/app_layout/nagbars/PremiumGracePeriodNagbar.tsx:72
 msgid "Your subscription failed to renew, but you still have access to Plutonium perks until <0>{formattedGraceDate}</0>. Take action now or you'll lose all perks."
-msgstr "Платёж за подписку не прошёл, но ты всё ещё имеешь доступ к преимуществам Plutonium до <0>{formattedGraceDate}</0>. Действуй сейчас, иначе потеряешь их все."
+msgstr "Не удалось продлить твою подписку, но преимущества Plutonium будут доступны тебе до <0>{formattedGraceDate}</0>. Обнови данные для оплаты сейчас, иначе ты потеряешь доступ к бонусам."
 
 #: src/components/modals/components/plutonium/hooks/useSubscriptionActions.tsx:65
 msgid "Your subscription has been reactivated!"
